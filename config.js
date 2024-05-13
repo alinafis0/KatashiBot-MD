@@ -13,14 +13,14 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["56974513824", '☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆', false],
-["51948705559", '𝙊𝙬𝙣𝙚𝙧', true],  
-["5217442363122", '𝑖𝑍𝑖', true],
-["5217294888993"], ["5217445404792"],
-["5492964650915"]]
+["212681951915", '☆ALI NAFIS☆', false],
+["212681951915", '𝙊𝙬𝙣𝙚𝙧', true],  
+["212681951915", 'lnl', true],
+["212681951915"], ["212681951915"],
+["212681951915"]]
 
 global.mods = []
-global.prems = []
+global.prems = ['212681951915']
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -35,7 +35,7 @@ global.keepAliveRender = 0; //Solo valores: 1 o 0
 // ❰❰ methodCode ❱❱
 // [ES] > Agregue el número del Bot en "botNumberCode" si desea recibir código de 8 dígitos sin registrar el número en la consola.
 // [EN] > Add the Bot number in "botNumberCode" if you want to receive 8-digit code without registering the number in the console.
-global.botNumberCode = "" //example: "+59309090909"
+global.botNumberCode = "" //example: "+212681951915"
 global.confirmCode = "" // No tocar esto : Do not touch this line
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -114,12 +114,12 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51948705559", '𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂 💻', 1], 
-["5217442363122", '𝑖𝑍𝑖 👻', 1],  
-["5493513446678", 'Martin Batman', 1],
-["5218771647787", 'IssSG', 1],
-["51948273587", 'Katashi Two', 1],
-["5492964650915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
+["212681951915", 'ALI-NAFIS 💻', 1], 
+["212681951915", 'LNL 👻', 1],  
+["212681951915", 'ALI-NAFIS', 1],
+["212681951915", 'IssSG', 1],
+["212681951915", 'ALI-NAFIS', 1],
+["212681951915", '♥️🎩⚠︎    シ︎𝑾𝒊𝒍𝖘𝒐𝒏シ︎   ⚠︎🎩♥️', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -127,8 +127,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
-global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊𝒎𝒂✥"
+global.packname = "☆RIGHA-BOT☆"
+global.author = "✥ALI-NAFIS✥"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -136,36 +136,36 @@ global.author = "✥𝑲𝒂𝒕𝒂𝒔𝒉𝒊 𝑭𝒖𝒌𝒖𝒔𝒉𝒊�
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.0.1"
 global.vsJB = "2.5 (Beta)"
-global.gt = "☆𝑲𝒂𝒕𝒂𝒔𝒉𝒊-𝑩𝒐𝒕☆"
+global.gt = "☆RIGHA-BOT☆"
 
-global.yt = "https://youtube.com/@KatashiFukushima"
-global.yt2 = "https://www.youtube.com/shorts/ZLJYDUM6vSY"
-global.ig = "https://www.instagram.com/katashi_fukushima"
-global.md = "https://github.com/KatashiFukushima/KatashiBot-MD"
-global.fb = "https://www.facebook.com/KatashiFukushimaF"
-global.tk = "https://www.tiktok.com/@katashi_fukushima"
-global.ths = "https://www.threads.net/@katashi_fukushima"
-global.paypal = 'https://paypal.me/KatashiF'
-global.asistencia = 'Wa.me/51948705559' //Contacto
-global.bot = 'wa.me/51999999999'
+global.yt = "https://youtube.com/"
+global.yt2 = "https://www.youtube.com/"
+global.ig = "https://www.instagram.com/alinafis0"
+global.md = "https://github.com/"
+global.fb = "https://www.facebook.com/"
+global.tk = "https://www.tiktok.com/"
+global.ths = "https://www.threads.net/"
+global.paypal = 'https://paypal.me/'
+global.asistencia = 'Wa.me/212681951915' //Contacto
+global.bot = 'wa.me/212681951915'
 
-global.nna = 'https://www.atom.bio/katashifukushima' // Cuentas
-global.nn2 = 'https://instabio.cc/KatashiUwU' // Cuentas 2
-global.nna2 = 'https://chat.whatsapp.com/LS9A8ItcmfiHm1ugivAjYy' // Grupo oficial de KatashiBot
-global.nn = 'https://chat.whatsapp.com/LS9A8ItcmfiHm1ugivAjYy' // Grupo oficial de KatashiBot
-global.nnn = 'https://chat.whatsapp.com/E9J01d9ExLVLy3C8IQEPjP' // Grupo ☆𝑨𝒏𝒊𝒎𝒆♡𝑨𝒎𝒊𝒔𝒕𝒂𝒅♡
-global.nnnt = 'https://chat.whatsapp.com/Eagxuc4pwKyAN4spnkm8lW' // PapuCity 2.5 resurrección
-global.nnntt = 'https://chat.whatsapp.com/EQHMweZI9nmIrA283eYK5i' // Grupo de Stickers
-global.nnnttt = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' // Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' // Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' // Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' // Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' // Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HXOGzELFOVXFM1KrSoKdqH' // MULTI - BOTS
-global.nnnttt6 = 'https://chat.whatsapp.com/KNFk4om8MR70h8t3fTSHea' // A.T.M.M
-global.channel1 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
-global.channel2 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
-global.channel3 = 'https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37'
+global.nna = 'https://www.atom.bio/' // Cuentas
+global.nn2 = 'https://instabio.cc/' // Cuentas 2
+global.nna2 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo oficial
+global.nn = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo oficial
+global.nnn = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo ☆𝑨𝒏𝒊𝒎𝒆♡𝑨𝒎𝒊𝒔𝒕𝒂𝒅♡
+global.nnnt = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // PapuCity 2.5 resurrección
+global.nnntt = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo de Stickers
+global.nnnttt = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // MULTI - BOTS
+global.nnnttt6 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw' // A.T.M.M
+global.channel1 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw'
+global.channel2 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw'
+global.channel3 = 'https://chat.whatsapp.com/DLQluqOMX5K7J2fSLdDUzw'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
@@ -197,7 +197,7 @@ global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51948273587"
+global.nomorown = "212681951915"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
